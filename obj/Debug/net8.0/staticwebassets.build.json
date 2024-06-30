@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "dK7GVQ1y/m8knGopDPo9XJ4Hn/+lHrPcbwEPnTJ1peY=",
+  "Source": "CsvToJsonApi",
+  "BasePath": "_content/CsvToJsonApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
